@@ -84,3 +84,8 @@ target/
 
 # Mypy cache
 .mypy_cache/
+
+# Bank data files
+*.csv
+*.xlsx
+*.xls
