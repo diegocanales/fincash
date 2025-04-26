@@ -1,0 +1,19 @@
+{
+  "template": "https://github.com/diegocanales/cookiecutter-mlops.git",
+  "commit": "0c56fe7a4db3e5aeaf61025769e11f6d3b6957fe",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "repo_name": "fincash",
+      "project_name": "Fincash",
+      "author_name": "Diego Canales",
+      "description": "A short description of the project.",
+      "package_name": "fincash",
+      "conda_env": "fincash",
+      "docker_image": "fincash",
+      "ml_project": "no",
+      "_template": "https://github.com/diegocanales/cookiecutter-mlops.git"
+    }
+  },
+  "directory": null
+}
